@@ -19,8 +19,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/real-time.png)
-### One to One chat
-![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/mainscreen.png)
 ### Search Users
 ![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/search.png)
 ### Create Group Chats

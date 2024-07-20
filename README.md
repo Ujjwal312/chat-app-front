@@ -10,24 +10,24 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/group%20%2B%20notif.png)
 
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/login.png)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/real-time.png)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/mainscreen.png)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/search.png)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/new%20grp.png)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/mainscreen.png)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/add%20rem.png)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/Ujjwal312/chat-app-front/blob/main/screenshots/profile.png)
